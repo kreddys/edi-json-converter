@@ -29,6 +29,10 @@ htmlcov/
 .Trashes
 Thumbs.db
 
+# Generated output files
+*.json
+!src/schemas/*.json
+
 # Logs
 *.log
 logs/
