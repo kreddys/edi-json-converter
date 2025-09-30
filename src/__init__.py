@@ -1,0 +1,1 @@
+# Simple __init__.py for flat structure - NiFi Python processors don't need complex imports
