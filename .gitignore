@@ -31,6 +31,7 @@ Thumbs.db
 
 # Generated output files
 *.json
+!output.json
 !src/schemas/*.json
 
 # Logs
